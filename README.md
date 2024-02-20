@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Axs7941](https://github.com/Axs7941)
 
-- 💬 Ask me about **Python, Rust and Data Structures**
+- 💬 Ask me about **Python, Rust, Go and Data Structures**
 
 - 📫 How to reach me **abhyudaisingh09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-9xIMJjtf7uY0yKbNPxBgFSy3FcmU2Ro/view?usp=sharing](https://drive.google.com/file/d/1-9xIMJjtf7uY0yKbNPxBgFSy3FcmU2Ro/view?usp=sharing)
 
-- ⚡ Fun fact **Eiffel Tower is in Germany PS It's 2nd worldwar**
+- ⚡ Fun fact **Eiffel Tower is in Germany P.S. It's 2nd worldwar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

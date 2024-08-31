@@ -105,4 +105,4 @@
   </a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/AbhyudaiSingh09?style=social)](https://github.com/AbhyudaiSingh09)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhyudaiSingh09&theme=dark&show_icons=true)

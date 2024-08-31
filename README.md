@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Axs7941](https://github.com/Axs7941)
 
-- 💬 Ask me about **Python, Rust, Go, and Data Structures**
+- 💬 Ask me about **Python, Rust, Go, and System Design**
 
 - 📫 How to reach me **abhyudaisingh09@gmail.com**
 

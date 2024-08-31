@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhyudaisingh09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-9xIMJjtf7uY0yKbNPxBgFSy3FcmU2Ro/view?usp=sharing](https://drive.google.com/file/d/1-9xIMJjtf7uY0yKbNPxBgFSy3FcmU2Ro/view?usp=sharing)
+- 📄 Know about my experiences [https://abhyudaisingh09.github.io/mywebsite/](https://abhyudaisingh09.github.io/mywebsite/)]
 
 - ⚡ Fun fact **Eiffel Tower is in Germany P.S. It's 2nd worldwar**
 

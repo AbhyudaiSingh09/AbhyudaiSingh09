@@ -1,17 +1,9 @@
+# Hi 👋, I'm Abhyudai Singh
+### A developing Software Developer
 
-```markdown
-<h1 align="center">Hi 👋, I'm Abhyudai Singh</h1>
-<h3 align="center">A developing Software Developer</h3>
+![Profile views](https://komarev.com/ghpvc/?username=AbhyudaiSingh09&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhyudaiSingh09&label=Profile%20views&color=0e75b6&style=flat" alt="AbhyudaiSingh09" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/abhyuda40724102" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abhyuda40724102?logo=twitter&style=for-the-badge" alt="abhyuda40724102" />
-  </a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhyuda40724102?logo=twitter&style=for-the-badge)](https://twitter.com/abhyuda40724102)
 
 - 🔭 I’m currently working on [Distributed Commit](https://github.com/Axs7941/2phasecommit_protocol)
 

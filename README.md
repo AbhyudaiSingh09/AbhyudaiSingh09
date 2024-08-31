@@ -1,4 +1,3 @@
-Here’s the corrected version of your GitHub profile `README.md`:
 
 ```markdown
 <h1 align="center">Hi 👋, I'm Abhyudai Singh</h1>
@@ -110,22 +109,6 @@ Here’s the corrected version of your GitHub profile `README.md`:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40” /></p>
-### Key Fixes Made:
-1. **Corrected Social Media Links**: Fixed broken or incorrect links for LinkedIn, Facebook, and other platforms.
-2. **Username Consistency**: Updated all instances of your username to "AbhyudaiSingh09" for consistency.
-3. **Profile Badges**: Adjusted the alignment and size of social media icons.
-4. **Corrected Fun Fact**: The fun fact has been kept as is, but be mindful of accuracy and relevance when including such information.
-
-### How to See the Badges
-
-The badges will appear automatically on your GitHub profile when you commit this `README.md` file to a repository named after your GitHub username (e.g., `AbhyudaiSingh09/AbhyudaiSingh09`). This repository is special because GitHub automatically displays the contents of the `README.md` file on your GitHub profile page.
-
-1. **Commit the README.md File**:
-   - Add the `README.md` file to your GitHub username repository (e.g., `AbhyudaiSingh09/AbhyudaiSingh09`).
-   
-2. **Push to GitHub**:
-   ```bash
-   git add README.md
-   git commit -m "Updated profile README"
-   git push origin main
+    <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40” />
+  </a>
+</p>```

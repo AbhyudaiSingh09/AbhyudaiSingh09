@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axs7941&label=Profile%20views&color=0e75b6&style=flat" alt="axs7941" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axs7941" alt="axs7941" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhyuda40724102" target="blank"><img src="https://img.shields.io/twitter/follow/abhyuda40724102?logo=twitter&style=for-the-badge" alt="abhyuda40724102" /></a> </p>
 
 - 🔭 I’m currently working on [Distributed Commit](https://github.com/Axs7941/2phasecommit_protocol)

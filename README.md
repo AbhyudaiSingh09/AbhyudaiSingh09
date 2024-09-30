@@ -5,8 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhyuda40724102?logo=twitter&style=for-the-badge)](https://twitter.com/abhyuda40724102)
 
-//- 🔭 I’m currently working on [Distributed Commit](https://github.com/Axs7941/2phasecommit_protocol)
-- 🔭 I’m currently working on [Reinforced Learning]
+- 🔭 I’m currently working on **Reinforced Learning**
 
 - 🌱 I’m currently learning **Rocket and React**
 

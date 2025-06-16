@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rocket and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Axs7941](https://github.com/Axs7941)
+- 👨‍💻 All of my projects are available at [https://github.com/abhyudai09](https://github.com/Abhyudai09)
 
 - 💬 Ask me about **Python, Rust, Go, and System Design**
 
